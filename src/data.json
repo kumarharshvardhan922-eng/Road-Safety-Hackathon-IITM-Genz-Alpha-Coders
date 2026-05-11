@@ -1,0 +1,1126 @@
+{
+  "Hospital and Trauma Centres": [
+    {
+      "__EMPTY": "S.NO",
+      "__EMPTY_1": "HOSPITALS",
+      "__EMPTY_2": "CONTACT",
+      "__EMPTY_3": "COORDINATES",
+      "__EMPTY_4": "ADRESS",
+      "__EMPTY_5": "HOSPITAL TYPE"
+    },
+    {
+      "__EMPTY": 1,
+      "__EMPTY_1": "BERASIA GENERAL HOSPITAL",
+      "__EMPTY_2": 9770055993,
+      "__EMPTY_3": "23.61217, 77.42881",
+      "__EMPTY_4": "Bhopal Rd, near Raj Nandani Garden, Krishna Colony, Berasia, Tikankhedi, Madhya Pradesh 463106",
+      "__EMPTY_5": "PRIVATE"
+    },
+    {
+      "__EMPTY": 2,
+      "__EMPTY_1": "SAMUDAYIK SWASTH KENDRA BERASIA",
+      "__EMPTY_2": 112,
+      "__EMPTY_3": "23.62316, 77.43147",
+      "__EMPTY_4": "JCFJ+5CQ, Bhopal Rd, Near Tehsil, Berasia, Bhopal, Tikankhedi, Madhya Pradesh 463106",
+      "__EMPTY_5": "GOVERNMENT"
+    },
+    {
+      "__EMPTY": 3,
+      "__EMPTY_1": "L.B.S HOSPITAL",
+      "__EMPTY_2": 7067900545,
+      "__EMPTY_3": "23.61204, 77.42892",
+      "__EMPTY_4": "Bhopal Rd, Berasia, Tikankhedi, Madhya Pradesh 463106",
+      "__EMPTY_5": "PRIVATE"
+    },
+    {
+      "__EMPTY": 4,
+      "__EMPTY_1": "JIVAN JYOTI HOSPITAL MAIN BERAISA ROAD EITKHED\n",
+      "__EMPTY_2": "NOT PROVIDED BY HOSPITAL",
+      "__EMPTY_3": "23.36507, 77.40118",
+      "__EMPTY_4": "Main, berasia road, Eint Khedi, Madhya Pradesh 462038",
+      "__EMPTY_5": "PRIVATE"
+    },
+    {
+      "__EMPTY": 5,
+      "__EMPTY_1": "SK MULTISPECIALITY HOSPITAL",
+      "__EMPTY_2": 6260120878,
+      "__EMPTY_3": "23.62602, 77.44950",
+      "__EMPTY_4": "JCGX+9J9, Sironj Narsingarh Square, Khitwas, Madhya Pradesh 463106",
+      "__EMPTY_5": "PRIVATE"
+    },
+    {
+      "Category": "Hospitals",
+      "Name": "J.K. Hospital and Medical College",
+      "Address": "Kolar Road, Sarvadharam C Sector",
+      "Contact": "0755-4080800"
+    },
+    {
+      "Category": "Hospitals",
+      "Name": "Sant Hirdaram Hospital",
+      "Address": "Sant Hirdaram Nagar, Bairagarh",
+      "Contact": "0755-2640523"
+    },
+    {
+      "Category": "Hospitals",
+      "Name": "Bansal Hospital",
+      "Address": "Shahpura, Near Kolar Bypass",
+      "Contact": "0755-4086000"
+    },
+    {
+      "Category": "Trauma Centres",
+      "Name": "Bansal Hospital Emergency & Trauma",
+      "Address": "Shahpura, Near Kolar",
+      "Contact": "0755-4086099"
+    },
+    {
+      "Category": "Trauma Centres",
+      "Name": "Chirayu Hospital Trauma Care",
+      "Address": "Bhopal-Indore Highway, Near Bairagarh",
+      "Contact": "0755-6679000"
+    },
+    {
+      "Category": "Hospitals",
+      "Name": "Kasturba Hospital (BHEL)",
+      "Address": "Habibganj, Near Govindpura",
+      "Contact": "0755-2505234"
+    },
+    {
+      "Category": "Hospitals",
+      "Name": "AIIMS Bhopal",
+      "Address": "Saket Nagar (Bordering Govindpura)",
+      "Contact": "0755-2672320"
+    },
+    {
+      "Category": "Hospitals",
+      "Name": "City Hospital",
+      "Address": "Indrapuri, Sector A",
+      "Contact": "0755-4288000"
+    },
+    {
+      "Category": "Trauma Centres",
+      "Name": "AIIMS Trauma Centre",
+      "Address": "Saket Nagar",
+      "Contact": "0755-2672350"
+    },
+    {
+      "Category": "Trauma Centres",
+      "Name": "Kasturba Emergency & Casualty",
+      "Address": "BHEL Township",
+      "Contact": "0755-2503233"
+    },
+    {
+      "__EMPTY": "Bansal Hospital Bhopal",
+      "__EMPTY_1": "0755 408 6000",
+      "Hospitals Bhopal uttar ": "Chuna Bhatti Rd, Manisha Market, Sector C, Shahpura, Bhopal, Madhya Pradesh 462039"
+    },
+    {
+      "__EMPTY": "Apollo Sage Hospital",
+      "__EMPTY_1": "0755 350 5050",
+      "Hospitals Bhopal uttar ": "Bawadiya Kalan, Salaiya, Bhopal, Madhya Pradesh 462026"
+    },
+    {
+      "__EMPTY": "BHOPAL CARE HOSPITAL",
+      "__EMPTY_1": "0755 422 1121",
+      "Hospitals Bhopal uttar ": "6C3R+375, E8/38, 12 No. Stop, E8, 12 No. Slum Area, Arera Colony, Bhopal, Madhya Pradesh 462016"
+    },
+    {
+      "__EMPTY": "CHIRAYU MEDICAL COLLEGE ",
+      "__EMPTY_1": "0755-2709100",
+      "Hospitals Bhopal uttar ": "Bhainsakhedi, Near Bairagarh, Bhopal-Indore Highway, Bhopal, Madhya Pradesh, 462030."
+    },
+    {
+      "Name": "Narmada Trauma Centre",
+      "Latitude": 23.2176951,
+      "Longitude": 77.439246,
+      "Type": "Trauma",
+      "Contact": 7554040000
+    },
+    {
+      "Name": "AMAN HOSPITAL & TRAUMA CENTER",
+      "Latitude": 23.31774,
+      "Longitude": 77.31738,
+      "Type": "GENERAL",
+      "Contact": 7648999888
+    },
+    {
+      "Name": "Bansal Hospital Bhopal",
+      "Latitude": 23.199972,
+      "Longitude": 77.41989,
+      "Type": "GENERAL",
+      "Contact": 7554086000
+    },
+    {
+      "Name": "Apollo Sage Hospital",
+      "Latitude": 23.17783,
+      "Longitude": 77.4424,
+      "Type": "GENERAL",
+      "Contact": 7553505050
+    },
+    {
+      "Name": "Bhopal Fracture Hospital",
+      "Latitude": 23.21297,
+      "Longitude": 77.43916,
+      "Type": "Orthopadeic/Trauma",
+      "Contact": 7554007000
+    },
+    {
+      "Name": "Sahara Hospital",
+      "Latitude": 23.19565,
+      "Longitude": 77.44777,
+      "Type": "Medical Clinic",
+      "Contact": 7554270008
+    },
+    {
+      "Name": "Mount Hospital",
+      "Latitude": 23.19651,
+      "Longitude": 77.47342,
+      "Type": "GENERAL",
+      "Contact": 9981057127
+    },
+    {
+      "Name": "Narmada Trauma Centre",
+      "Latitude": 23.2323,
+      "Longitude": 77.4295,
+      "Type": "Trauma/Emergency",
+      "Contact": "0755-4040000",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "Bhopal Fracture Hospital",
+      "Latitude": 23.231,
+      "Longitude": 77.433,
+      "Type": "Orthopedic/Trauma",
+      "Contact": "0755-2460606",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "Metrocity Multispeciality",
+      "Latitude": 23.256,
+      "Longitude": 77.435,
+      "Type": "General/Emergency",
+      "Contact": "0755-4008000",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "Jeevandan multispecility hospital",
+      "Latitude": 23.2595,
+      "Longitude": 77.412,
+      "Type": "GENERAL",
+      "Contact": 9098852357,
+      "Zone": "Narela"
+    },
+    {
+      "Name": "Leelawati Memorial Hospital Cardiac & Critical Care Centre",
+      "Latitude": 23.2598,
+      "Longitude": 77.3955,
+      "Type": "Cardiac/Trauma ",
+      "Contact": 8463891433,
+      "Zone": "Narela"
+    },
+    {
+      "Name": "Aadhar Hospital",
+      "Latitude": 23.2646,
+      "Longitude": 77.4362,
+      "Type": "GENERAL",
+      "Contact": 7947142776,
+      "Zone": "Narela"
+    },
+    {
+      "Name": "Karond Multispeciality Hospital",
+      "Latitude": 23.2894,
+      "Longitude": 77.4236,
+      "Type": "GENERAL",
+      "Contact": "not available",
+      "Zone": "Narela"
+    },
+    {
+      "Name": "People's Hospital Bhopal",
+      "Latitude": 23.1865,
+      "Longitude": 77.4042,
+      "Type": "Multi-speciality + Teaching hospital ",
+      "Contact": 7554005200,
+      "Zone": "Narela"
+    },
+    {
+      "Name": "Bhopal Memorial Hospital and Research Centre",
+      "Latitude": 23.278,
+      "Longitude": 77.4163,
+      "Type": "Super Speciality/Trauma",
+      "Contact": 7552742212,
+      "Zone": "Narela"
+    },
+    {
+      "Name": "Shri Sai Hospital ",
+      "Latitude": 23.303,
+      "Longitude": 77.4123,
+      "Type": "General",
+      "Contact": 9893565702,
+      "Zone": "Narela"
+    }
+  ],
+  "Ambulance Service": [
+    {
+      "__EMPTY": "Lifenet Ambulance Service",
+      "Ambulance services in Bhopal uttar": "S-9, Mata Mandir Square, TT Nagar, Bhopal, Madhya Pradesh 462003"
+    },
+    {
+      "__EMPTY": "Bhopal Ambulance",
+      "Ambulance services in Bhopal uttar": "Shop No. 1, Rahul Nagar, Chhawani, Trilanga Main Rd, Shahupura village, Shahpura, Bhopal, Madhya Pradesh 462039"
+    },
+    {
+      "Name": "Pawanputra Surgical & Ambulance service",
+      "Latitude": 23.19884,
+      "Longitude": 77.41961,
+      "Contact ": 8819935405
+    },
+    {
+      "Name": "Emergency Ambulance Service And Hoapital Equipments Rent/Sale",
+      "Latitude": 23.18251,
+      "Longitude": 77.43529,
+      "Contact ": 6260878027
+    },
+    {
+      "Name": "BHARTI AMBULANCE SERVICES",
+      "Latitude": 23.19973,
+      "Longitude": 77.41991,
+      "Contact ": 8920919203
+    },
+    {
+      "Name": "Lifenet Ambulance Service",
+      "Latitude": 23.22592,
+      "Longitude": 77.40283,
+      "Contact ": 9755745191
+    },
+    {
+      "Name": "Shri Balaji Ambulance Service",
+      "Latitude": 23.21803,
+      "Longitude": 77.43917,
+      "Contact ": 9993372277
+    },
+    {
+      "Name": "Government Ambulance",
+      "Latitude": "Not Available",
+      "Longitude": "Not  Available",
+      "Contact ": 108
+    },
+    {
+      "Category": "Ambulance Services",
+      "Name": "108 Sanjeevani Ambulance",
+      "Address": "Huzur Region Coverage",
+      "Contact": "108"
+    },
+    {
+      "Category": "Ambulance Services",
+      "Name": "Red Cross Society Ambulance",
+      "Address": "District Coverage",
+      "Contact": "0755-2550186"
+    },
+    {
+      "Category": "Ambulance Services",
+      "Name": "108 Sanjeevani Ambulance",
+      "Address": "Govindpura Region Coverage",
+      "Contact": "108"
+    },
+    {
+      "Category": "Ambulance Services",
+      "Name": "Kasturba Hospital Ambulance",
+      "Address": "BHEL Township",
+      "Contact": "0755-2505234"
+    },
+    {
+      "__EMPTY": 2,
+      "__EMPTY_1": "AMBULANCE",
+      "__EMPTY_2": "102-108"
+    },
+    {
+      "Name": "Ambulance",
+      "Contact": 100,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Medulance 24/7",
+      "Latitude": 23.235,
+      "Longitude": 77.432,
+      "Type": "Private Emergency",
+      "Contact": "+91 8882978888",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "MedCab Ambulance",
+      "Latitude": 23.24,
+      "Longitude": 77.42,
+      "Type": "Private Emergency",
+      "Contact": "1800-8908-208",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Service Name": "National ambulance service",
+      "Type": "Government ",
+      "Contact": 108,
+      "Availability": "24/7"
+    },
+    {
+      "Service Name": "Hindustan Ambulance Service ",
+      "Type": "PRIVATE",
+      "Contact": 9300058362,
+      "Availability": "24/7"
+    },
+    {
+      "Service": "Ambulance",
+      "Number": "108"
+    }
+  ],
+  "Police Station": [
+    {
+      "__EMPTY": "Ayodhya Nagar Police Station",
+      "__EMPTY_4": "Housing Board Colony, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041"
+    },
+    {
+      "__EMPTY": "Madhya Pradesh Police Headquarters",
+      "__EMPTY_4": "Jail Rd, Jahangirabad, Bhopal, Madhya Pradesh 462008"
+    },
+    {
+      "__EMPTY": "TT Nagar Police Station",
+      "__EMPTY_4": "6CP2+926, Near, New Market, STT Nagar, Bhopal, Madhya Pradesh 462003"
+    },
+    {
+      "__EMPTY": "Koh-e-fiza Police Station",
+      "__EMPTY_4": "796Q+M27, Sultania Rd, S B I Bank Square, Bhopal, Madhya Pradesh 462001"
+    },
+    {
+      "__EMPTY": "Police Control Room",
+      "__EMPTY_4": "6CX8+43X, behind Lal Pared Ground, Jahangirabad, Bhopal, Madhya Pradesh 462008"
+    },
+    {
+      "Category": "Police Station",
+      "Name": "Kolar Road Police Station",
+      "Address": "Kolar Road, Bhopal",
+      "Contact": "0755-2422044"
+    },
+    {
+      "Category": "Police Station",
+      "Name": "Misrod Police Station",
+      "Address": "Hoshangabad Road, Misrod",
+      "Contact": "0755-2499033"
+    },
+    {
+      "Category": "Police Station",
+      "Name": "Bairagarh Police Station",
+      "Address": "Sant Hirdaram Nagar (Bairagarh)",
+      "Contact": "0755-2640033"
+    },
+    {
+      "Category": "Police Station",
+      "Name": "Ratibad Police Station",
+      "Address": "Ratibad Main Road",
+      "Contact": "0755-2896232"
+    },
+    {
+      "Category": "Police Station",
+      "Name": "Govindpura Police Station",
+      "Address": "Govindpura Industrial Area",
+      "Contact": "0755-2580433"
+    },
+    {
+      "Category": "Police Station",
+      "Name": "Piplani Police Station",
+      "Address": "BHEL, Piplani",
+      "Contact": "0755-2580436"
+    },
+    {
+      "Category": "Police Station",
+      "Name": "Awadhpuri Police Station",
+      "Address": "Awadhpuri Main Road",
+      "Contact": "0755-2415100"
+    },
+    {
+      "Category": "Police Station",
+      "Name": "Ashoka Garden Police Station",
+      "Address": "Ashoka Garden",
+      "Contact": "0755-2580438"
+    },
+    {
+      "__EMPTY": 3,
+      "__EMPTY_1": "POLICE",
+      "__EMPTY_2": 100
+    },
+    {
+      "Name": "Police ",
+      "Contact": 108,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "__EMPTY": "S.NO",
+      "__EMPTY_1": "NAME",
+      "__EMPTY_2": "CONTACT",
+      "__EMPTY_3": "COORDINATES",
+      "__EMPTY_4": "ADDRESS"
+    },
+    {
+      "__EMPTY": 1,
+      "__EMPTY_1": "BERASIA POLICE STATION",
+      "__EMPTY_2": 7565282223,
+      "__EMPTY_3": "23.62069, 77.43133",
+      "__EMPTY_4": "JCCJ+69M, Bhopal Rd, Berasia, Bhopal, Tikankhedi, Madhya Pradesh 463106"
+    },
+    {
+      "__EMPTY": 2,
+      "__EMPTY_1": "PARWALIYA SADAK POLICE STATION",
+      "__EMPTY_2": 7552867278,
+      "__EMPTY_3": "23.33683, 77.27431",
+      "__EMPTY_4": "National Highway 12 Parwaliya Sadak, Bhopal, Madhya Pradesh 462036"
+    },
+    {
+      "__EMPTY": 3,
+      "__EMPTY_1": "NAZIRABAD POLICE STATION",
+      "__EMPTY_2": 7565286777,
+      "__EMPTY_3": "23.79960, 77.26012",
+      "__EMPTY_4": "Q7X4+76P, Nazirabad, Madhya Pradesh 462120"
+    },
+    {
+      "__EMPTY": 4,
+      "__EMPTY_1": "INTKHEDI POLICE STATION",
+      "__EMPTY_2": 7552854505,
+      "__EMPTY_3": "23.35958, 77.39934",
+      "__EMPTY_4": "995X+WJ5 Police Station, Berasia Road, Eint Khedi, Bhopal, Madhya Pradesh 462038"
+    },
+    {
+      "__EMPTY": 5,
+      "__EMPTY_1": "GUNGA POLICE STATION",
+      "__EMPTY_2": 7565286240,
+      "__EMPTY_3": "23.45223, 77.34940",
+      "__EMPTY_4": "F922+V27, Gunga, Madhya Pradesh 462101"
+    },
+    {
+      "Name": "M.P.Nagar Police Station",
+      "Latitude": 23.2350528,
+      "Longitude": 77.4289966,
+      "Contact No.": 100,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Madhya Pradesh Police Headquarters",
+      "Latitude": 23.2483566,
+      "Longitude": 77.4102145,
+      "Contact No.": 100,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Kolar Road Police Station",
+      "Latitude": 23.1702335,
+      "Longitude": 77.416635,
+      "Contact No.": 100,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Shymala Hills police station",
+      "Latitude": 23.2444706,
+      "Longitude": 77.3925603,
+      "Contact No.": 100,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Police Control Room",
+      "Latitude": 23.2479807348466,
+      "Longitude": 77.4152604288358,
+      "Contact No.": 100,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Jahangirabad Police Station",
+      "Latitude": 23.245,
+      "Longitude": 77.415,
+      "Type": "Local Thana",
+      "Contact": "0755-2555914",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "MP Nagar Police Station",
+      "Latitude": 23.233,
+      "Longitude": 77.43,
+      "Type": "Local Thana",
+      "Contact": "0755-2555916",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "Ashoka Garden Police Station",
+      "Latitude": 23.258,
+      "Longitude": 77.425,
+      "Type": "Local Thana",
+      "Contact": "0755-2555921",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "Nishatpura Police Station",
+      "Latitude": 23.2624,
+      "Longitude": 77.4337,
+      "Contact": "100",
+      "Zone": "Narela"
+    },
+    {
+      "Name": "Ayodhya Nagar Police Station",
+      "Latitude": 23.247,
+      "Longitude": 77.463,
+      "Contact": "100",
+      "Zone": " Narela"
+    },
+    {
+      "Name": "Chhola Mandir Police Station ",
+      "Latitude": 23.2817,
+      "Longitude": 77.4416,
+      "Contact": 100,
+      "Zone": "Narela"
+    },
+    {
+      "Service": "Police",
+      "Number": "100"
+    }
+  ],
+  "Vehicle Rescue Services": [
+    {
+      "Category": "Vehicle Rescue Services",
+      "Name": "Bhopal Traffic Police Towing",
+      "Address": "Traffic HQ (Covers Huzur)",
+      "Contact": "0755-2555922"
+    },
+    {
+      "Category": "Vehicle Rescue Services",
+      "Name": "24x7 Roadside Assistance",
+      "Address": "Local Garage Network, Kolar",
+      "Contact": "1800-103-1958"
+    },
+    {
+      "Category": "Vehicle Rescue Services",
+      "Name": "Govindpura Traffic Crane",
+      "Address": "Govindpura Traffic Zone",
+      "Contact": "0755-2555922"
+    },
+    {
+      "Category": "Vehicle Rescue Services",
+      "Name": "MyTVS Roadside Assistance",
+      "Address": "J.K. Road / Govindpura",
+      "Contact": "1800-266-5000"
+    },
+    {
+      "Name": "MAA Durga Towing Crane",
+      "Latitude": 23.26,
+      "Longitude": 77.45,
+      "Type": "Towing Service",
+      "Contact": "Not Available",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "RFMS Towing & Crane",
+      "Latitude": 23.25,
+      "Longitude": 77.445,
+      "Type": "Towing Service",
+      "Contact": "Not Available",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Service Name": "Rehan Roadside Assistance Towing service",
+      "Type": "Towing/Rescue ",
+      "Contact": 8770755251,
+      "LATITUDE": 23.2642,
+      "LONGITUDE": 77.4335
+    },
+    {
+      "Service Name": "Laxmi Crane Service ",
+      "Type": "Towing/Crane ",
+      "Contact": 9826748569,
+      "LATITUDE": 23.2786,
+      "LONGITUDE": 77.4219
+    },
+    {
+      "__EMPTY": "RELIANCE MOTORS SHOPPEE ",
+      "__EMPTY_2": "6,7, Dadaji Avenue Complex, Kolar Rd, Chuna Bhatti, Bhopal, Madhya Pradesh 462039",
+      "__EMPTY_12": "098269 34052"
+    },
+    {
+      "__EMPTY": "SAHIB GARAGE ",
+      "__EMPTY_2": "Shop/25, Bittan Market, Rd, in front of Metro Plaza, E-5, Char Imli, Bhopal, Madhya Pradesh 462016",
+      "__EMPTY_12": "091110 77536"
+    },
+    {
+      "Name": "Car Town",
+      "Latitude": 23.20716,
+      "Longitude": 77.41748,
+      "Specialization": "General towing and local breakdown assistance",
+      "Contact": 7415301575
+    },
+    {
+      "Name": "AUTOWELT",
+      "Latitude": 23.17657,
+      "Longitude": 77.42342,
+      "Specialization": "Known for specialized roadside assistance and recovery",
+      "Contact": 9713674747
+    },
+    {
+      "Name": "LAXMI CRANE SERVICE",
+      "Latitude": 23.24338,
+      "Longitude": 77.49228,
+      "Specialization": "Towing service or breakdown car",
+      "Contact": 9826748569
+    },
+    {
+      "Name": "RFMS Towing Service",
+      "Latitude": 23.25363,
+      "Longitude": 77.45707,
+      "Specialization": "General towing and local breakdown assistance",
+      "Contact": "Not Available"
+    },
+    {
+      "Name": "Maa Durga Crane Service",
+      "Latitude": 23.2532,
+      "Longitude": 77.44223,
+      "Specialization": "Towing and crane services",
+      "Contact": 9165513036
+    }
+  ],
+  "Petrol Pump": [
+    {
+      "Category": "Petrol Pump",
+      "Name": "Reliance Petrol Pump",
+      "Address": "Kolar Road",
+      "Contact": "N/A"
+    },
+    {
+      "Category": "Petrol Pump",
+      "Name": "Indian Oil Fuel Station",
+      "Address": "Main Road, Bairagarh",
+      "Contact": "N/A"
+    },
+    {
+      "Category": "Petrol Pump",
+      "Name": "HP Petrol Pump",
+      "Address": "Hoshangabad Road, Misrod",
+      "Contact": "N/A"
+    },
+    {
+      "Category": "Petrol Pump",
+      "Name": "BPCL Jubilee Gate Pump",
+      "Address": "Near Jubilee Gate, BHEL",
+      "Contact": "N/A"
+    },
+    {
+      "Category": "Petrol Pump",
+      "Name": "Indian Oil Petrol Pump",
+      "Address": "Chetak Bridge Crossing",
+      "Contact": "N/A"
+    },
+    {
+      "Category": "Petrol Pump",
+      "Name": "HP Petrol Pump",
+      "Address": "Awadhpuri Bypass Road",
+      "Contact": "N/A"
+    },
+    {
+      "__EMPTY": "S.NO",
+      "__EMPTY_1": "NAME",
+      "__EMPTY_2": "ADRESS",
+      "__EMPTY_3": "COORDINATES",
+      "__EMPTY_4": "PHONE NUMBER",
+      "__EMPTY_5": 46227
+    },
+    {
+      "__EMPTY": 1,
+      "__EMPTY_1": "MAA HARSIDDHI FILLING STATION INDIAN OIL",
+      "__EMPTY_2": "S No 468/1/1470/1470/2/2, Bhesonda\nBalachoan",
+      "__EMPTY_3": "23.58414, 77.42050",
+      "__EMPTY_4": "9300835056",
+      "__EMPTY_5": "NO"
+    },
+    {
+      "__EMPTY": 2,
+      "__EMPTY_1": "SHRI BRAHMPUTRA FILLING STATION INDIAN OIL",
+      "__EMPTY_2": "Ground Floor, Basai Berasia, Vidhsha Road\nBalachoan\nBhopal - 463106",
+      "__EMPTY_3": "23.62623, 77.44655",
+      "__EMPTY_4": 7565282246,
+      "__EMPTY_5": "NO"
+    },
+    {
+      "__EMPTY": 3,
+      "__EMPTY_1": "BERASIA AUTO SERVICE INDIAN OIL",
+      "__EMPTY_2": "Ground Floor, Berasia, Rtd 92 Kms, Balachoan, Narela Bazyaft, Madhya Pradesh 463106",
+      "__EMPTY_3": "23.60398, 77.42622",
+      "__EMPTY_4": 9993120100,
+      "__EMPTY_5": "NO"
+    },
+    {
+      "__EMPTY": 4,
+      "__EMPTY_1": "RAJDHANI FUELS KISAN SEWA KENDRA INDIAN OIL",
+      "__EMPTY_2": "Sn 47/1/2 Pipaliya Hasnab, District\nHabibganj\nBhopal - 462001",
+      "__EMPTY_3": "23.64324, 77.37973",
+      "__EMPTY_4": 9981111387,
+      "__EMPTY_5": "YES"
+    },
+    {
+      "__EMPTY": 5,
+      "__EMPTY_1": "SIDDHI FUEL POINT HP",
+      "__EMPTY_2": "Ground Floor, Amarpur, Berasia, Keetkhedi, Bhopal, Madhya Pradesh 463111",
+      "__EMPTY_3": "23.66399, 77.45728",
+      "__EMPTY_4": 9425188747,
+      "__EMPTY_5": "YES"
+    },
+    {
+      "__EMPTY": 6,
+      "__EMPTY_1": "M/S SUMANTRA SERVICE STATION HP",
+      "__EMPTY_2": "Ground Floor, Nazirabad Road, Berasia, Tikankhedi, Madhya Pradesh 463106",
+      "__EMPTY_3": "23.62340, 77.42951",
+      "__EMPTY_4": 8602184058,
+      "__EMPTY_5": "YES"
+    },
+    {
+      "__EMPTY": 7,
+      "__EMPTY_1": "JIO BP PETROL PUMP",
+      "__EMPTY_2": "99FX+2V4, Gol Khedi, Madhya Pradesh 462038",
+      "__EMPTY_3": "23.37336, 77.40055",
+      "__EMPTY_4": 7898271712,
+      "__EMPTY_5": "YES"
+    },
+    {
+      "__EMPTY": 8,
+      "__EMPTY_1": "ARYA FUEL PUMP BPCL",
+      "__EMPTY_2": "NIPANIYA JAT, Bhopal, Madhya Pradesh 462101",
+      "__EMPTY_3": "23.42342, 77.43235",
+      "__EMPTY_4": 7553240550,
+      "__EMPTY_5": "NO"
+    },
+    {
+      "__EMPTY": 9,
+      "__EMPTY_1": "AASHIRWAAD NAYARA PETROL PUMP",
+      "__EMPTY_2": "Guna - Bhopal Rd, Sunga, Madhya Pradesh 462120",
+      "__EMPTY_3": "23.71204, 77.27357",
+      "__EMPTY_4": 18001200330,
+      "__EMPTY_5": "YES"
+    },
+    {
+      "__EMPTY": 10,
+      "__EMPTY_1": "SHREE DEV KRIPA FUELS BPCL",
+      "__EMPTY_2": "Bhojapura, jod, Berasia, Madhya Pradesh 463106",
+      "__EMPTY_3": "23.65856, 77.35216",
+      "__EMPTY_4": 9425849461,
+      "__EMPTY_5": "YES"
+    },
+    {
+      "Name": "IOCL (Major Nanke Petrol Pump)",
+      "Latitude": 23.23353,
+      "Longitude": 77.40231,
+      "Contact ": 9039159269,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Hindustan Petroleum Corporation Limited",
+      "Latitude": 23.20921,
+      "Longitude": 77.44375,
+      "Contact ": 9165419999,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Bharat Petroleum - Mahendra Fuel Point",
+      "Latitude": 23.17972,
+      "Longitude": 77.43875,
+      "Contact ": "Not Available",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Hindustan Petroleum Corporation Limited",
+      "Latitude": 23.21756,
+      "Longitude": 77.42863,
+      "Contact ": "Not Available",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Shivam Filling Station",
+      "Latitude": 23.244,
+      "Longitude": 77.414,
+      "Type": "Petrol/Diesel",
+      "Contact": "Not Available",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "Pragati Pump Station",
+      "Latitude": 23.232,
+      "Longitude": 77.431,
+      "Type": "Petrol/Diesel",
+      "Contact": "Not Available",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "IndianOil Ayodhya Sales And Service ",
+      "Latitude": 23.2497,
+      "Longitude": 77.4635,
+      "24/7": "Yes",
+      "CONTACT": 9630944110
+    },
+    {
+      "Name": "HP Petrol Pump Ayodhya Bypass",
+      "Latitude": 23.3032,
+      "Longitude": 77.4138,
+      "24/7": "Yes",
+      "CONTACT": 7024212203
+    },
+    {
+      "Name": "Kanta Shrawan Petrol Pump Bharat Petroleum",
+      "Latitude": 23.2508,
+      "Longitude": 77.4599,
+      "24/7": "Yes",
+      "CONTACT": "NOT AVAILABLE"
+    },
+    {
+      "Name": "Shashi Krishan Filling Station",
+      "Latitude": 23.2706,
+      "Longitude": 77.4523,
+      "24/7": "Yes",
+      "CONTACT": 7389906750
+    },
+    {
+      "Name": "Vijay Vallabh Bharat Petroleum Petrol pump",
+      "Latitude": 23.2528,
+      "Longitude": 77.4594,
+      "24/7": "Yes",
+      "CONTACT": 1800224344
+    },
+    {
+      "Name": "THINK Gas CNG Station(Karond/Bhanpur)",
+      "Latitude": 23.3039,
+      "Longitude": 77.4206,
+      "24/7": "Yes",
+      "CONTACT": "89896 64118 "
+    },
+    {
+      "Name": "THINK Gas CNG Station (Karond Chauraha) ",
+      "Latitude": 23.3035,
+      "Longitude": 77.4209,
+      "24/7": "Yes",
+      "CONTACT": "75529 95878 "
+    }
+  ],
+  "Fire Station": [
+    {
+      "Category": "Fire Station",
+      "Name": "Kolar Fire Station",
+      "Address": "Near Kolar Guest House, Kolar Road",
+      "Contact": "0755-2422222"
+    },
+    {
+      "Category": "Fire Station",
+      "Name": "Bairagarh Fire Station",
+      "Address": "Sant Hirdaram Nagar",
+      "Contact": "0755-2640101"
+    },
+    {
+      "Category": "Fire Station",
+      "Name": "Govindpura Fire Station",
+      "Address": "Govindpura Industrial Area",
+      "Contact": "0755-2580101"
+    },
+    {
+      "Category": "Fire Station",
+      "Name": "Bogda Pul Fire Station",
+      "Address": "Near Ashoka Garden (Coverage Area)",
+      "Contact": "0755-2550101"
+    },
+    {
+      "__EMPTY": 1,
+      "__EMPTY_1": "FIRE BRIGADE",
+      "__EMPTY_2": 101
+    },
+    {
+      "Name": "fire Brigade ",
+      "Contact": 102,
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Fire Sub Station Sant Hirdaram Nagar",
+      "Latitude": 23.27186,
+      "Longitude": 77.34097,
+      "Contact": 7552701282,
+      "Type": "Fire Station",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Fire Station Control Room",
+      "Latitude": 23.25667,
+      "Longitude": 77.39567,
+      "Contact": 7552701401,
+      "Type": "Fire Station",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Fire Sub-station Raja Bhoj Airport",
+      "Latitude": 23.29827,
+      "Longitude": 77.34135,
+      "Contact": 8408067301,
+      "Type": "Fire Station",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Fire Station - Nagar Palika Parishad Mandideep",
+      "Latitude": 23.09858,
+      "Longitude": 77.51547,
+      "Contact": 7480233334,
+      "Type": "Fire Station",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Fategarh Fire Station",
+      "Latitude": 23.255,
+      "Longitude": 77.405,
+      "Type": "Municipal Fire",
+      "Contact": "0755-2542222",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "MP Nagar Fire Station",
+      "Latitude": 23.234,
+      "Longitude": 77.4315,
+      "Type": "Municipal Fire",
+      "Contact": "0755-2550101",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "Nishatpura Fire Station ",
+      "Latitude": 23.259,
+      "Longitude": 77.412,
+      "Contact": "101"
+    },
+    {
+      "Service": "Fire",
+      "Number": "101"
+    }
+  ],
+  "Service Centres": [
+    {
+      "Name": "RELIANCE MOTORS SHOPPEE - Car Repair",
+      "Latitude": 23.20534,
+      "Longitude": 77.4173,
+      "Contact": 9826934052,
+      "Type": "Service Centre",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Sunrise Motors & Repairing Centre",
+      "Latitude": 23.23662,
+      "Longitude": 77.39656,
+      "Contact": 9111229458,
+      "Type": "Service Centre",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "SAHIB GARAGE - Car Denting & Painting, Car Repairing & Maintenance",
+      "Latitude": 23.21641,
+      "Longitude": 77.43076,
+      "Contact": 9111077536,
+      "Type": "Service Centre",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "Reliable Moto Repair",
+      "Latitude": 23.26287,
+      "Longitude": 77.39562,
+      "Contact": 9009214354,
+      "Type": "Service Centre",
+      "Zone": "Bhopal Dakshin Paschim"
+    },
+    {
+      "Name": "myTVS Car Garage",
+      "Latitude": 23.16459,
+      "Longitude": 77.4147,
+      "Specialization": "Flatbed towing, accident recovery, and comprehensive car repairs",
+      "Contact": 7358202225
+    }
+  ],
+  "Local Contacts": [
+    {
+      "Category": "Emergency Contact Numbers",
+      "Name": "Dial 100 Police Control Room",
+      "Address": "Statewide/Huzur",
+      "Contact": "100 / 112"
+    },
+    {
+      "Category": "Emergency Contact Numbers",
+      "Name": "Women Helpline",
+      "Address": "Statewide",
+      "Contact": "1090"
+    },
+    {
+      "Category": "Emergency Contact Numbers",
+      "Name": "Fire Emergency",
+      "Address": "Statewide",
+      "Contact": "101"
+    },
+    {
+      "Category": "Emergency Contact Numbers",
+      "Name": "Dial 100 Police Control Room",
+      "Address": "Statewide/Govindpura",
+      "Contact": "100 / 112"
+    },
+    {
+      "Category": "Emergency Contact Numbers",
+      "Name": "Electricity Fault (MPEB)",
+      "Address": "Govindpura Zone",
+      "Contact": "1912"
+    },
+    {
+      "Category": "Emergency Contact Numbers",
+      "Name": "Municipal Corp (BMC) Control",
+      "Address": "Govindpura / Zone 13 & 14",
+      "Contact": "1800-233-0014"
+    },
+    {
+      "__EMPTY": "S.NO",
+      "__EMPTY_1": "NAME",
+      "__EMPTY_2": "NUMBER"
+    },
+    {
+      "__EMPTY": 4,
+      "__EMPTY_1": "CM HELPLINE",
+      "__EMPTY_2": 181
+    },
+    {
+      "__EMPTY": 5,
+      "__EMPTY_1": "NAGAR PALIKA BERASIA",
+      "__EMPTY_2": 7565282231
+    },
+    {
+      "__EMPTY": 6,
+      "__EMPTY_1": "DEAF & DUMP HELPLINE",
+      "__EMPTY_2": 7587628112
+    },
+    {
+      "__EMPTY": 7,
+      "__EMPTY_1": "BERASIA MLA",
+      "__EMPTY_2": "755-2660603 / 9425005041"
+    },
+    {
+      "__EMPTY": "Name",
+      "__EMPTY_1": "contact number",
+      "__EMPTY_2": "Location"
+    },
+    {
+      "Name": "Police Control Room",
+      "Latitude": 23.24,
+      "Longitude": 77.42,
+      "Type": "Emergency Line",
+      "Contact": "100",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "Fire Brigade",
+      "Latitude": 23.24,
+      "Longitude": 77.42,
+      "Type": "Emergency Line",
+      "Contact": "101",
+      "Zone": "Bhopal Madhya"
+    },
+    {
+      "Name": "Ambulance Help",
+      "Latitude": 23.24,
+      "Longitude": 77.42,
+      "Type": "Emergency Line",
+      "Contact": "108",
+      "Zone": "Bhopal Madhya"
+    }
+  ]
+}

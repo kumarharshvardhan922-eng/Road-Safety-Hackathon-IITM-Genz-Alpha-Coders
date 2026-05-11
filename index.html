@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sadak Sathi - AI Emergency Assistant</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚨</text></svg>">
+    <!-- We will link our CSS here -->
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <!-- This is a layout for your team's main website -->
+    <header class="mock-header">
+      <div class="logo">Sadak Sathi</div>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Bhopal Data</a>
+      </nav>
+    </header>
+
+    <main class="mock-main">
+      <section class="hero">
+        <h1>Your Ultimate Road Companion.</h1>
+        <p>Empowering Bhopal with instantaneous, AI-driven emergency response. Because every second counts when lives are on the line.</p>
+      </section>
+
+      <section class="features">
+        <div class="feature-card">
+          <h3>Lightning Fast</h3>
+          <p>Instant SOS alerts routed directly to the absolute nearest trauma centers and first responders.</p>
+        </div>
+        <div class="feature-card">
+          <h3>Pinpoint Accuracy</h3>
+          <p>Powered by exact geolocations across all zones of Bhopal, rigorously verified by our team.</p>
+        </div>
+        <div class="feature-card">
+          <h3>Voice Activated AI</h3>
+          <p>Hands-free emergency assistance powered by advanced Natural Language Processing. Just speak, and help arrives.</p>
+        </div>
+      </section>
+    </main>
+
+    <!-- ============================================== -->
+    <!-- THIS IS WHERE THE CHATBOT WIDGET IS INJECTED   -->
+    <!-- ============================================== -->
+    <div id="roadsos-chatbot-root"></div>
+    
+    <!-- And here is the JS script to power it -->
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
