@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>RoadSoS SOS Page</title>
+
+  <style>
+
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family:Arial, sans-serif;
+    }
+
+    body{
+      background:#111827;
+      height:100vh;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      color:white;
+    }
+
+    .container{
+      width:90%;
+      max-width:400px;
+      background:#1f2937;
+      padding:30px;
+      border-radius:30px;
+      text-align:center;
+      box-shadow:0 10px 25px rgba(0,0,0,0.4);
+    }
+
+    /* SOS Circle */
+
+    .sos-circle{
+      width:160px;
+      height:160px;
+      background:#dc2626;
+      border-radius:50%;
+      margin:auto;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      font-size:60px;
+      animation:pulse 1.5s infinite;
+      box-shadow:0 0 30px rgba(255,0,0,0.6);
+    }
+
+    @keyframes pulse{
+
+      0%{
+        transform:scale(1);
+      }
+
+      50%{
+        transform:scale(1.08);
+      }
+
+      100%{
+        transform:scale(1);
+      }
+
+    }
+
+    h1{
+      margin-top:25px;
+      font-size:38px;
+    }
+
+    .status{
+      margin-top:10px;
+      color:#fca5a5;
+      font-size:18px;
+    }
+
+    /* Cards */
+
+    .card{
+      background:white;
+      color:black;
+      padding:18px;
+      border-radius:20px;
+      margin-top:18px;
+      text-align:left;
+    }
+
+    .card h3{
+      margin-bottom:8px;
+    }
+
+    /* Loading */
+
+    .loading{
+      margin-top:20px;
+    }
+
+    .dot{
+      height:12px;
+      width:12px;
+      background:red;
+      border-radius:50%;
+      display:inline-block;
+      animation:blink 1s infinite;
+    }
+
+    .dot:nth-child(2){
+      animation-delay:0.2s;
+    }
+
+    .dot:nth-child(3){
+      animation-delay:0.4s;
+    }
+
+    @keyframes blink{
+
+      0%{
+        opacity:0.2;
+      }
+
+      50%{
+        opacity:1;
+      }
+
+      100%{
+        opacity:0.2;
+      }
+
+    }
+
+    /* Button */
+
+    .btn{
+      margin-top:25px;
+      width:100%;
+      padding:15px;
+      border:none;
+      border-radius:15px;
+      background:#dc2626;
+      color:white;
+      font-size:18px;
+      cursor:pointer;
+      transition:0.3s;
+    }
+
+    .btn:hover{
+      background:#ef4444;
+    }
+    .chatbot-btn{
+
+  position:fixed;
+
+  bottom:95px;
+
+  right:20px;
+
+  width:65px;
+
+  height:65px;
+
+  border-radius:50%;
+
+  background:#ef4444;
+
+  color:white;
+
+  display:flex;
+
+  justify-content:center;
+
+  align-items:center;
+
+  font-size:30px;
+
+  box-shadow:0 10px 20px rgba(0,0,0,0.2);
+
+  cursor:pointer;
+
+  z-index:1000;
+}
+
+.chatbot-btn:hover{
+  transform:scale(1.08);
+}
+
+  </style>
+
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- SOS Circle -->
+
+    <div class="sos-circle">
+      🚨
+    </div>
+
+    <!-- Heading -->
+
+    <h1>SOS Activated</h1>
+
+    <p class="status">
+      Emergency services notified
+    </p>
+
+    <!-- Loading -->
+
+    <div class="loading">
+
+      <span class="dot"></span>
+
+      <span class="dot"></span>
+
+      <span class="dot"></span>
+
+    </div>
+
+    <!-- Location -->
+
+    <div class="card">
+
+      <h3>📍 Current Location</h3>
+
+      <p>Narela, Bhopal</p>
+
+    </div>
+
+    <!-- Hospital -->
+
+    <div class="card">
+
+      <h3>🏥 Nearest Hospital</h3>
+
+      <p>Bhopal Memorial Hospital & Research Centre</p>
+
+    </div>
+
+    <!-- Ambulance -->
+
+    <div class="card">
+
+      <h3>🚑 Ambulance Status</h3>
+
+      <p>Arriving in 8 minutes</p>
+
+    </div>
+
+    <!-- Button -->
+
+    <a href="roadsos.html">
+
+      <button class="btn">
+        Back to Home
+      </button>
+
+    </a>
+
+  </div>
+<!-- Chatbot Button -->
+
+<div class="chatbot-btn">
+
+  💬
+
+</div>
+</body>
+</html>
