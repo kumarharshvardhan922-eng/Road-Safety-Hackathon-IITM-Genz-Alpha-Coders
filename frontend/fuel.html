@@ -5,105 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <head>
 
+  <meta name="description" content="Sadak Sathi AI - Instant emergency response and real-time support in Bhopal." />
+  <link rel="stylesheet" href="/src/style.css" />
+    
+
     <title>Fuel Services</title>
 
-    <style>
-        body {
-            background: #111827;
-            font-family: Arial;
-            color: white;
-            padding: 20px;
-        }
-
-        h1 {
-            text-align: center;
-        }
-
-        @media(max-width:768px) {
-
-            body {
-                padding: 15px;
-            }
-
-            h1 {
-                font-size: 32px;
-                text-align: center;
-            }
-
-            .card {
-                padding: 18px;
-                border-radius: 18px;
-            }
-
-            .card h2 {
-                font-size: 22px;
-            }
-
-            .card p {
-                font-size: 15px;
-            }
-
-            .btn {
-                width: 100%;
-                padding: 12px;
-                font-size: 16px;
-            }
-
-        }
-
-        .card {
-            background: white;
-            color: black;
-            padding: 20px;
-            border-radius: 20px;
-            margin-top: 20px;
-        }
-
-        .btn {
-            background: red;
-            color: white;
-            border: none;
-            padding: 10px 20px;
-            border-radius: 10px;
-            margin-top: 10px;
-        }
-        .chatbot-btn{
-
-  position:fixed;
-
-  bottom:95px;
-
-  right:20px;
-
-  width:65px;
-
-  height:65px;
-
-  border-radius:50%;
-
-  background:#ef4444;
-
-  color:white;
-
-  display:flex;
-
-  justify-content:center;
-
-  align-items:center;
-
-  font-size:30px;
-
-  box-shadow:0 10px 20px rgba(0,0,0,0.2);
-
-  cursor:pointer;
-
-  z-index:1000;
-}
-
-.chatbot-btn:hover{
-  transform:scale(1.08);
-}
-    </style>
+    
 
 </head>
 
@@ -130,11 +38,13 @@
             </button>
     </div>
     </a>
-    <!-- Chatbot Button -->
-
-<div class="chatbot-btn">
-  💬
-</div>
+    
+  <!-- ============================================== -->
+  <!-- THIS IS WHERE THE CHATBOT WIDGET IS INJECTED   -->
+  <!-- ============================================== -->
+  <div id="roadsos-chatbot-root"></div>
+  <script type="module" src="/src/main.js"></script>
+    
 </body>
 
 </html>
