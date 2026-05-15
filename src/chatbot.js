@@ -423,6 +423,11 @@ export function initChatbot(rootElement) {
     } else if (lowerMsg.match(/contact|helpline|संपर्क|தொடர்பு|సంప్రదించండి|संपर्क|ସମ୍ପର୍କ/)) {
       serviceCategory = "Local Contacts";
     } else {
+      // Offline AI Fallback
+      if (!navigator.onLine) {
+         return `<p>I am currently offline. Please use keywords like 'Hospital', 'Police', or 'Ambulance' to get immediate local data.</p>`;
+      }
+      
       // If we have Gemini API, use it to understand intent
       if (model) {
         try {

@@ -1,54 +1,194 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Sadak Sathi AI - Your Ultimate Road Companion providing instant emergency response and real-time support in Bhopal." />
-    <meta name="keywords" content="Road Safety, AI, Emergency Assistant, Bhopal, Sadak Sathi, Trauma Centers, Ambulance" />
-    <title>Sadak Sathi - AI Emergency Assistant</title>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🚨</text></svg>">
-    <!-- We will link our CSS here -->
-    <link rel="stylesheet" href="/src/style.css" />
-  </head>
-  <body>
-    <!-- This is a layout for your team's main website -->
-    <header class="mock-header">
-      <div class="logo">Sadak Sathi</div>
-      <nav>
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Bhopal Data</a>
-      </nav>
-    </header>
 
-    <main class="mock-main">
-      <section class="hero">
-        <h1>Your Ultimate Road Companion.</h1>
-        <p>Empowering Bhopal with instantaneous, AI-driven emergency response. Because every second counts when lives are on the line.</p>
-      </section>
+<head>
 
-      <section class="features">
-        <div class="feature-card">
-          <h3>Lightning Fast</h3>
-          <p>Instant SOS alerts routed directly to the absolute nearest trauma centers and first responders.</p>
-        </div>
-        <div class="feature-card">
-          <h3>Pinpoint Accuracy</h3>
-          <p>Powered by exact geolocations across all zones of Bhopal, rigorously verified by our team.</p>
-        </div>
-        <div class="feature-card">
-          <h3>Voice Activated AI</h3>
-          <p>Hands-free emergency assistance powered by advanced Natural Language Processing. Just speak, and help arrives.</p>
-        </div>
-      </section>
-    </main>
-
-    <!-- ============================================== -->
-    <!-- THIS IS WHERE THE CHATBOT WIDGET IS INJECTED   -->
-    <!-- ============================================== -->
-    <div id="roadsos-chatbot-root"></div>
+  <meta name="description" content="Sadak Sathi AI - Instant emergency response and real-time support in Bhopal." />
+  <link rel="stylesheet" href="/src/style.css" />
     
-    <!-- And here is the JS script to power it -->
-    <script type="module" src="/src/main.js"></script>
-  </body>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Roadsahayak 24/7</title>
+
+  
+</head>
+
+<body>
+
+  <!-- Navbar -->
+
+  <div class="navbar-custom">
+
+    <div class="icon-btn">
+      🏠
+    </div>
+    <div class="logo">
+      ROAD<span> SAHAYAK 24/7</span>
+    </div>
+
+    <div class="icon-btn">
+    📍
+    </div>
+  </div>
+  <!-- Main Card -->
+  <div class="main-card">
+    <div class="location">
+      Current Location
+    </div>
+    <div class="city">
+      Narela, Bhopal
+    </div>
+    <p>Madhya Pradesh, India</p>
+    <!-- SOS -->
+    <div class="sos-container">
+      <a class="sos-link" href="sos.html">
+        <button class="sos-btn" onclick="showAlert()">
+          SOS</button>
+      </a>
+    </div>
+  </div>
+  <!-- Services -->
+  <div class="container services">
+    <div class="row g-4">
+      <!-- Hospital -->
+      <div class="col-6">
+        <a class="hospital" href="hospitals.html">
+          <div class="service-card">
+            <div class="service-icon hospital">
+              🏥
+            </div>
+
+            <h3>Hospitals</h3>
+            <p>Nearby trauma centres</p>
+          </div>
+        </a>
+      </div>
+      <!-- Police -->
+      <div class="col-6">
+        <a class="police" href="police.html">
+          <div class="service-card">
+            <div class="service-icon police">
+              🚓
+            </div>
+            <h3>Police</h3>
+            <p>Nearest stations</p>
+
+          </div>
+        </a>
+      </div>
+      <!-- Ambulance -->
+      <div class="col-6">
+        <a class="ambulance" href="ambulance.html">
+          <div class="service-card">
+            <div class="service-icon ambulance">
+              🚑
+            </div>
+            <h3>Ambulance</h3>
+            <p>Emergency ambulance</p>
+          </div>
+        </a>
+      </div>
+      <!-- Fuel -->
+      <div class="col-6">
+        <a class="fuel" href="fuel.html">
+          <div class="service-card">
+            <div class="service-icon fuel">
+              ⛽
+            </div>
+            <h3>Fuel</h3>
+            <p>Nearby petrol pumps</p>
+          </div>
+        </a>
+      </div>
+      <!-- Towing Service -->
+      <div class="col-6">
+        <a class="towing" href="towing.html">
+          <div class="service-card">
+            <div class="service-icon towing">
+              🛠️
+            </div>
+
+            <h3>Towing</h3>
+
+            <p>Vehicle rescue support</p>
+          </div>
+        </a>
+      </div>
+      <!-- Fire Service -->
+      <div class="col-6">
+        <a class="fire" href="fire.html">
+          <div class="service-card">
+            <div class="service-icon fire">
+              🔥
+            </div>
+            <h3>Fire Service</h3>
+            <p>Emergency fire rescue</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  <!-- Emergency Contacts -->
+  <div class="contact-section">
+
+    <h2>Emergency Contacts</h2>
+
+    <div class="row">
+
+      <div class="col-4">
+
+        <div class="contact-box police-box">
+          🚓
+          <h1>100</h1>
+          <h3>Police</h3>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="contact-box ambulance-box">
+          🚑
+          <h1>108</h1>
+          <h3>Ambulance</h3>
+        </div>
+
+      </div>
+
+      <div class="col-4">
+
+        <div class="contact-box fire-box">
+          🚒
+          <h1>101</h1>
+          <h3>Fire Department</h3>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <!-- Bottom Nav -->
+  <div class="bottom-nav">
+    <div class="active">
+      🏠
+      Home
+    </div>
+    <div>
+      🛠️
+      Services
+    </div>
+    <div>
+      🚨
+      Alerts
+    </div>
+    <div>
+      👤
+      Profile
+    </div>
+  </div>
+  
+  <!-- ============================================== -->
+  <!-- THIS IS WHERE THE CHATBOT WIDGET IS INJECTED   -->
+  <!-- ============================================== -->
+  <div id="roadsos-chatbot-root"></div>
+  <script type="module" src="/src/main.js"></script>
+    
+</body>
+
 </html>

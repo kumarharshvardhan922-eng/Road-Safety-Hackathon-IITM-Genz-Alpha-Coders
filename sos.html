@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta name="description" content="Sadak Sathi AI - Instant emergency response and real-time support in Bhopal." />
+  <link rel="stylesheet" href="/src/style.css" />
+    
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>RoadSoS SOS Page</title>
+
+  
+
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- SOS Circle -->
+
+    <div class="sos-circle">
+      🚨
+    </div>
+
+    <!-- Heading -->
+
+    <h1>SOS Activated</h1>
+
+    <p class="status">
+      Emergency services notified
+    </p>
+
+    <!-- Loading -->
+
+    <div class="loading">
+
+      <span class="dot"></span>
+
+      <span class="dot"></span>
+
+      <span class="dot"></span>
+
+    </div>
+
+    <!-- Location -->
+
+    <div class="card">
+
+      <h3>📍 Current Location</h3>
+
+      <p>Narela, Bhopal</p>
+
+    </div>
+
+    <!-- Hospital -->
+
+    <div class="card">
+
+      <h3>🏥 Nearest Hospital</h3>
+
+      <p>Bhopal Memorial Hospital & Research Centre</p>
+
+    </div>
+
+    <!-- Ambulance -->
+
+    <div class="card">
+
+      <h3>🚑 Ambulance Status</h3>
+
+      <p>Arriving in 8 minutes</p>
+
+    </div>
+
+    <!-- Button -->
+
+    <a href="index.html">
+
+      <button class="btn">
+        Back to Home
+      </button>
+
+    </a>
+
+  </div>
+
+  <!-- ============================================== -->
+  <!-- THIS IS WHERE THE CHATBOT WIDGET IS INJECTED   -->
+  <!-- ============================================== -->
+  <div id="roadsos-chatbot-root"></div>
+  <script type="module" src="/src/main.js"></script>
+    
+</body>
+</html>

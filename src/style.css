@@ -746,3 +746,20 @@ a { text-decoration: none; color: inherit; }
   .mock-main { padding: 2rem; }
   .features { grid-template-columns: 1fr; }
 }
+
+/* Page Transitions */
+body {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+}
+
+body.page-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+body.page-leave-active {
+  opacity: 0;
+  transform: translateY(-10px);
+}
