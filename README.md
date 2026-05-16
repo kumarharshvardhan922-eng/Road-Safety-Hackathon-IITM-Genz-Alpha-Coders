@@ -124,8 +124,4 @@ road-sahayak-247/
 
 ***
 
-### A Quick Tip Before You Submit:
-Make sure you replace `https://github.com/YOUR_USERNAME/road-sahayak-247.git` in the **Clone the Repository** step with the actual link to your GitHub repository! 
- Good luck with the IIT Madras Hackathon submission!
-
 ```
